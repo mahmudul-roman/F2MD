@@ -33,7 +33,7 @@ The scientific publication is available on [ResearchGate](https://www.researchga
 
 Alternatively, you can download a preinstalled **Instant F2MD** virtual machine here:
 
-[Instant-F2MD Download Link](https://bit.ly/3yoRYba "Instant-F2MD")
+[Instant-F2MD Download Link](https://mega.nz/file/e50lnCTB#mKYQdWzOYp6LZboFaZt5IAOINzhTSxoGOWOrIz0Ccfk "Instant-F2MD")
 
 Or access the **Docker Image** here:
 
